@@ -14,6 +14,8 @@ public class Ejercicio1 {
 		// Variables
 		int edad;
 		
+		//comentario alumno2 David y Marta
+		
 		//Inicio
 		System.out.println("Introduce la edad, máximo " + EDAD_MAXIMA);
 		edad = Integer.parseInt(teclado.nextLine()); // leer numero
