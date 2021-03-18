@@ -14,7 +14,9 @@ public class Ejercicio1 {
 		// Variables
 		int edad;
 		
+
 		//Cambio del alumno1 Jesus Santos Capitan
+		//comentario alumno2 David y Marta
 		
 		//Inicio
 		System.out.println("Introduce la edad, máximo " + EDAD_MAXIMA);
